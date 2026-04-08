@@ -1,0 +1,193 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "김주영",
+      "email": "myjuyoung2@gmail.com",
+      "githubURL": "https://github.com/1juyoung",
+      "team": "6팀"
+    },
+    {
+      "id": 2,
+      "name": "최윤호",
+      "email": "choiyh2001@gmail.com",
+      "githubURL": "https://github.com/youknowwgit",
+      "team": "5팀"
+    },
+    {
+      "id": 3,
+      "name": "권원영",
+      "email": "onyo9ssafy@gmail.com",
+      "githubURL": "https://github.com/iamadreamer10",
+      "team": "5팀"
+    },
+    {
+      "id": 4,
+      "name": "김호성",
+      "email": "khskhs726@gmail.com",
+      "githubURL": "https://github.com/HoSeong0731",
+      "team": "2팀"
+    },
+    {
+      "id": 5,
+      "name": "김나현",
+      "email": "nhkim7788@gmail.com",
+      "githubURL": "https://github.com/nhkim06",
+      "team": "6팀"
+    },
+    {
+      "id": 6,
+      "name": "김예림",
+      "email": "yeflarla923@gmail.com",
+      "githubURL": "https://github.com/yerimming",
+      "team": "2팀"
+    },
+    {
+      "id": 7,
+      "name": "공서연",
+      "email": "gongseoyeon1@gmail.com",
+      "githubURL": "https://github.com/seoyeeon",
+      "team": "5팀"
+    },
+    {
+      "id": 8,
+      "name": "황서진",
+      "email": "happy.clara0830@gmail.com",
+      "githubURL": "https://github.com/HwangSeo",
+      "team": "1팀"
+    },
+    {
+      "id": 9,
+      "name": "김지원",
+      "email": "zone0728@gmail.com",
+      "githubURL": "https://github.com/dony-beep",
+      "team": "3팀"
+    },
+    {
+      "id": 10,
+      "name": "장재한",
+      "email": "twinsjh01@gmail.com",
+      "githubURL": "https://github.com/JAEHAN-JANG",
+      "team": "4팀"
+    },
+    {
+      "id": 11,
+      "name": "이채린",
+      "email": "leecxfls@gmail.com",
+      "githubURL": "https://github.com/cxfls",
+      "team": "4팀"
+    },
+    {
+      "id": 12,
+      "name": "조준연",
+      "email": "junyeon03@gmail.com",
+      "githubURL": "https://github.com/GJYeon",
+      "team": "2팀"
+    },
+    {
+      "id": 13,
+      "name": "김동현",
+      "email": "kdongh0406@gmail.com",
+      "githubURL": "https://github.com/Kimd0ng",
+      "team": "1팀"
+    },
+    {
+      "id": 14,
+      "name": "석정한",
+      "email": "jhstone034679@gmail.com",
+      "githubURL": "https://github.com/JungHan-Seok",
+      "team": "5팀"
+    },
+    {
+      "id": 15,
+      "name": "문수호",
+      "email": "50031593msh@gmail.com",
+      "githubURL": "https://github.com/moonsuho",
+      "team": "2팀"
+    },
+    {
+      "id": 16,
+      "name": "이종원",
+      "email": "ji140126@gmail.com",
+      "githubURL": "https://github.com/jongwon-810",
+      "team": "2팀"
+    },
+    {
+      "id": 17,
+      "name": "김도현",
+      "email": "kh9015548@gmail.com",
+      "githubURL": "https://github.com/dodo5517",
+      "team": "4팀"
+    },
+    {
+      "id": 18,
+      "name": "김혜진",
+      "email": "anne37053@gmail.com",
+      "githubURL": "https://github.com/jin3574",
+      "team": "4팀"
+    },
+    {
+      "id": 19,
+      "name": "강태훈",
+      "email": "rhcharles0@gmail.com",
+      "githubURL": "https://github.com/rhcharles0",
+      "team": "6팀"
+    },
+    {
+      "id": 20,
+      "name": "김충훈",
+      "email": "chunghun0513@gmail.com",
+      "githubURL": "https://github.com/kchun0513",
+      "team": "6팀"
+    },
+    {
+      "id": 21,
+      "name": "정민규",
+      "email": "samu9nai@gmail.com",
+      "githubURL": "https://github.com/samu9nai",
+      "team": "1팀"
+    },
+    {
+      "id": 22,
+      "name": "황현진",
+      "email": "jjini231027@gmail.com",
+      "githubURL": "https://github.com/hyeonjin6530",
+      "team": "4팀"
+    },
+    {
+      "id": 23,
+      "name": "김유환",
+      "email": "a01091238199@gmail.com",
+      "githubURL": "https://github.com/2019147588",
+      "team": "3팀"
+    },
+    {
+      "id": 24,
+      "name": "김현지",
+      "email": "jikim567@gmail.com",
+      "githubURL": "https://github.com/mendi5603",
+      "team": "5팀"
+    },
+    {
+      "id": 25,
+      "name": "백광훈",
+      "email": "bkh010914@gmail.com",
+      "githubURL": "https://github.com/HUN0914",
+      "team": "3팀"
+    },
+    {
+      "id": 26,
+      "name": "김혜빈",
+      "email": "vveny113@gmail.com",
+      "githubURL": "https://github.com/hyevin99",
+      "team": "1팀"
+    },
+    {
+      "id": 27,
+      "name": "장아연",
+      "email": "robinround77@gmail.com",
+      "githubURL": "https://github.com/bigwaveBigwave",
+      "team": "3팀"
+    }
+  ]
+}
