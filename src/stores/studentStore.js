@@ -19,7 +19,7 @@ export const useStudentStore = defineStore("studentStore", () => {
     error.value = null;
 
     try {
-      const response = await axios.get("http://localhost:3000/students");
+      const response = await axios.get("https://class-db.onrender.com/students");
       students.value = response.data;
       // 원본 데이터 초기화 시 tempStudents도 초기화
       resetTempStudents();
@@ -77,7 +77,7 @@ export const useStudentStore = defineStore("studentStore", () => {
     try {
       // 모든 학생 데이터에 대한 업데이트 요청을 병렬로 처리
       const updatePromises = tempStudents.value.map((student) =>
-        axios.put(`http://localhost:3000/students/${student.id}`, student),
+        axios.put(`https://class-db.onrender.com/students/${student.id}`, student),
       );
 
       await Promise.all(updatePromises);
