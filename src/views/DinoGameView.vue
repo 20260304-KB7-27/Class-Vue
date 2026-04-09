@@ -1,19 +1,25 @@
 <template>
   <div class="dino-view">
     <h2>공룡 게임</h2>
-    <DinoGame ref="dinoGameRef" @gameover="handleGameOver" />
+    <DinoGame ref="dinoGameRef" :easter-eggs="gameStore.easterEggs" @gameover="handleGameOver" />
     <ScoreModal v-if="showModal" :score="lastScore" @restart="handleRestart" />
   </div>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import DinoGame from '@/components/DinoGame.vue'
 import ScoreModal from '@/components/ScoreModal.vue'
+import { useGameStore } from '@/stores/gameStore'
 
+const gameStore = useGameStore()
 const dinoGameRef = ref(null)
 const showModal = ref(false)
 const lastScore = ref(0)
+
+onMounted(() => {
+  gameStore.fetchEasterEggs()
+})
 
 function handleGameOver(score) {
   lastScore.value = score
