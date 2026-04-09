@@ -2,7 +2,7 @@ import { defineStore } from 'pinia'
 import { ref } from 'vue'
 import axios from 'axios'
 
-const BASE_URL = 'http://localhost:3000'
+const BASE_URL = 'https://class-db-production.up.railway.app'
 
 export const useGameStore = defineStore('game', () => {
   const scores = ref([])
