@@ -6,6 +6,8 @@
       <router-link to="/students">학생 목록</router-link>
       <router-link to="/teams">팀별 학생 목록</router-link>
       <router-link to="/team-manager">팀 구성 관리</router-link>
+      <router-link to="/dino">공룡 게임</router-link>
+      <router-link to="/leaderboard">점수 전광판</router-link>
     </nav>
 
     <router-view></router-view>
